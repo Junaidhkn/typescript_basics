@@ -7,5 +7,3 @@ const user: User = {
 	name: 'Junaid',
 	age: 22,
 };
-
-console.log(user);
